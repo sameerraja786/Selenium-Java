@@ -7,10 +7,10 @@ public class onrDimentational {
 	{
 		int a[] = new int[4];
 		
-		a[0] = 10;
-		a[1] = 20;
-		a[2] = 30;
-		a[3] = 40;
+		a[0] = 100;
+		a[1] = 200;
+		a[2] = 300;
+		a[3] = 400;
 		
 		System.out.println(a[2]);
 		System.out.println("Enhance For loop");
